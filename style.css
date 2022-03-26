@@ -1,0 +1,92 @@
+/* Add all your styles here */
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background-color:;
+}
+.container{
+  max-width:1000px;
+  background-color:lightblue;
+  margin:0 auto;
+  padding:10px;
+}
+header{
+  
+}
+.profile-image{
+  width:100px;
+  height:120px;
+  border:3px solid white;
+  border-radius:50%;
+  float:left;
+}
+.header-bio{
+  float:left;
+  padding:10px;
+}
+h1,h2,h3,h4,h5,h6{
+  color:#11999e;
+}
+.header-contact{
+  float:right;
+  padding:20px;
+}
+.header-contact a{
+  text-decoration:none;
+  color:teal;
+  font-weight:bold;
+}
+.header-contact a:hover{
+  text-decoration:underline;
+  color:tomato;
+}
+.clear-div{
+  clear:both;
+}
+hr{
+  border:2px black solid;
+  width:100%;
+  margin:20px auto;
+  border-bottom:none;
+}
+.content{
+  
+}
+.left-div{
+  float:left;
+  width:10%;
+}
+right-div{
+  float:left;
+  width:90%;
+}
+.common-hr{
+  border:solid black 1px;
+  border-bottom:none;
+  width:100%;
+  margin:20px auto;
+}
+.edu-tamplate-left{
+  width:10%;
+  float:right;
+}
+.edu-template-right{
+  width:10%;
+  float:right;
+}
+.bottom-container{
+  background-color:black;
+  text-align:center;
+  padding:10px;
+}
+.bottom-container a{
+  color:white;
+  text-decoration:none;
+  margin:15px;
+}
+.bottom-container p{
+  color:white;
+  margin:15px;
+}
